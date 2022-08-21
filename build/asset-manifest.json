@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e38c5092.css",
+    "main.js": "/static/js/main.62ec199d.js",
+    "static/media/policy.pdf": "/static/media/policy.3c453542f4af1a1d2026.pdf",
+    "static/media/heroBg.svg": "/static/media/heroBg.ab8399db1c391c58c79835760a6c0aeb.svg",
+    "static/media/appointmentBg.jpg": "/static/media/appointmentBg.2e97d5d01e5ad606008e.jpg",
+    "static/media/smoke.svg": "/static/media/smoke.9d763dec2e2452dee84387a6d9096179.svg",
+    "static/media/patientsPic.svg": "/static/media/patientsPic.e41d8044dbb121720879e1634d2a1738.svg",
+    "static/media/insuranceFront.svg": "/static/media/insuranceFront.500b838b3f216ba5de04eed0d0ab6807.svg",
+    "static/media/logo.svg": "/static/media/logo.78186b0d41e887aba474d5ec5300ae4d.svg",
+    "static/media/driversLic.svg": "/static/media/driversLic.9866cadcf23a4ab15fe7c114a95ca7a8.svg",
+    "static/media/non-smoke.svg": "/static/media/non-smoke.7522cb9f2e4884d92f0a860ed438555a.svg",
+    "static/media/ticket.svg": "/static/media/ticket.9c8a1032ae57bc8a7d7feaf018bcd75c.svg",
+    "static/media/social.svg": "/static/media/social.406172cee563dcac10213495c500666f.svg",
+    "static/media/printer.svg": "/static/media/printer.c65679167224f1a307e698657add9740.svg",
+    "static/media/insuranceBack.svg": "/static/media/insuranceBack.6d8dfb93ee2666ccc47c7a76b27dc467.svg",
+    "static/media/infoIcon.svg": "/static/media/infoIcon.8c6ee4d5ae92f582a8fa0e2c5fd26e8c.svg",
+    "static/media/medical.svg": "/static/media/medical.e31c81d4c58c9b36bf26d47872fb68ca.svg",
+    "static/media/allergies.svg": "/static/media/allergies.483b9a58ea78c9f2377a4f67dbeeb9b6.svg",
+    "static/media/checkin.svg": "/static/media/checkin.98e53d4c7851fb7913db178fecd34e90.svg",
+    "static/media/family.svg": "/static/media/family.a65e037dece41fb20528470c74d352c6.svg",
+    "static/media/calender.svg": "/static/media/calender.27a45974e2c135861c46192599d0eed9.svg",
+    "static/media/wait.svg": "/static/media/wait.b82e629ecb6f895a3528fb5d3597c135.svg",
+    "index.html": "/index.html",
+    "static/media/surgical.svg": "/static/media/surgical.cdd5694dedd04207b1d86b22ab06c537.svg",
+    "static/media/close.svg": "/static/media/close.aff428ce3cf789b2abebf1d15ae4c0e7.svg",
+    "static/media/demographics.svg": "/static/media/demographics.af9e869b5cd67104ecffe0511579dfd1.svg",
+    "static/media/medications.svg": "/static/media/medications.83f2772ca1aa29d9073b4062dfa9af3a.svg",
+    "static/media/insurance.svg": "/static/media/insurance.7df26b0a21505747ef73f572358e93bf.svg",
+    "static/media/shoe.svg": "/static/media/shoe.dca5084dddbdf1056527940aa4868394.svg",
+    "static/media/love.svg": "/static/media/love.2326b7e4548ac471301bddf5d5d06965.svg",
+    "static/media/icons8-edit.svg": "/static/media/icons8-edit.4f06bc397f14f8bc42681d065846de44.svg",
+    "main.e38c5092.css.map": "/static/css/main.e38c5092.css.map",
+    "main.62ec199d.js.map": "/static/js/main.62ec199d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e38c5092.css",
+    "static/js/main.62ec199d.js"
+  ]
+}
